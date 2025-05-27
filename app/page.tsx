@@ -15,7 +15,7 @@ export default function Home() {
   const doacoesRecebidas = 1000;
   const valorPorMarmita = 10;
   const progressValue = 0;
-  const numeroTelefone = "5535984331369";
+  const numeroTelefone = "5522991150559";
   const mensagem =
     "Olá! Gostaria de saber mais sobre a Igreja AD Capão - CADCAF e como posso ajudar na campanha de marmitas.";
 
